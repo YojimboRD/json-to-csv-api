@@ -1,0 +1,10 @@
+# Sensitive files - never commit
+.env
+venv/
+__pycache__/
+*.pyc
+automaton.db
+logs/
+*.log
+workspace/earnings.log
+workspace/server.log
